@@ -1,0 +1,52 @@
+
+      html,
+      body{
+        height: 100%;
+      }
+
+      .login-body{
+        
+         background-size:cover;
+      }
+  
+     @media screen and (min-width: 600px) {
+      .custom-form{
+        background-color:rgba(247, 241, 241, 0.5);
+        margin-top:5%;
+         text-align: center;
+         width:30%;
+         margin-left:35%; 
+         border-radius: 5%;
+       }
+  
+    }
+  
+    .custom-button{
+     margin-top:20px;
+      text-align:center;
+      background-color:rgb(80, 30, 196);
+  
+    }
+  
+    
+    .custom-button:hover{
+      text-align:center;
+      color:white;
+      background-color:rgb(73, 96, 224);
+  
+    }
+  
+  
+  .card-body-custom{
+    height:100%;
+    background-image:url("../images/login_bg1.jpg");  
+    background-size: cover;
+  
+  }
+  
+  .logo{
+  
+    height:80px;
+    width:80px;
+  }
+
